@@ -1,0 +1,4 @@
+from desafio111.utilidadescelo import moeda
+
+p = float(input('Digite o preço: R$'))
+moeda.resumo(p)
